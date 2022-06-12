@@ -1,0 +1,1 @@
+Count the number of times the digits in a number changes.

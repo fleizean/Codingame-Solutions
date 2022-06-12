@@ -1,0 +1,14 @@
+Given a nonnegative integer x, count the number of set bits (bits which are a 1) in its binary representation.
+
+For example, 31 = 11111 has 5 set bits.
+Input
+Line 1: An integer x
+Output
+Line 1: The number of set bits in the binary representation of x
+Constraints
+0 ≤ x < 2^31
+Example
+Input
+31
+Output
+5
