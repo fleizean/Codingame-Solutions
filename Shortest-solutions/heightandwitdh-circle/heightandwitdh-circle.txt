@@ -1,0 +1,16 @@
+Create a rectangle based on the specified height and width parameters. Use the letter "O" (Case-Sensitive) as the character making up the rectangle.
+Input
+Line 1: The height of the rectangle.
+Line 2: The width of the rectangle.
+Output
+A string that displays a rectangle.
+Constraints
+0 < height < 100
+0 < width < 100
+Example
+Input
+2
+2
+Output
+OO
+OO

@@ -1,0 +1,13 @@
+A given string message, output the first and last lowercase letter of the string separated by a hyphen " - " .
+Input
+message the string given.
+Output
+Print the first and last lowercase letter of message separated by a hyphen " - " .
+Constraints
+0 < message length < 100.
+1 < number of lowercase letters.
+Example
+Input
+abcd
+Output
+a-d
