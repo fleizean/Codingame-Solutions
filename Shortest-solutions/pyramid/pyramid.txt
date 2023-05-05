@@ -1,0 +1,16 @@
+User
+Given a character, use it to construct an isosceles triangle with X character height.
+Input
+the character to be used.
+the height of the triangle. (X)
+Output
+Use the character provided in the input to build a isosceles triangle.
+Constraints
+Example
+Input
+*
+3
+Output
+  *
+ ***
+*****
